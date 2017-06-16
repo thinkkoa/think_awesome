@@ -1,4 +1,4 @@
-# think_awesome
+# thinkkoa_awesome
 
 Awesome projects for ThinkKoa.
 
