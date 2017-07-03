@@ -6,6 +6,7 @@ Awesome projects for ThinkKoa.
 
 * [think_cache](https://github.com/thinkkoa/think_cache) [![npm version](https://badge.fury.io/js/think_cache.svg)](https://badge.fury.io/js/think_cache) Cache for ThinkKoa, support file, memcache, redis.
 * [think_error](https://github.com/thinkkoa/think_error) [![npm version](https://badge.fury.io/js/think_error.svg)](https://badge.fury.io/js/think_error) Error catch for ThinkKoa.
+* [think_i18n](https://github.com/thinkkoa/think_i18n) [![npm version](https://badge.fury.io/js/think_i18n.svg)](https://badge.fury.io/js/think_i18n) Internationalization and localization for ThinkKoa.
 * [think_logger](https://github.com/thinkkoa/think_logger) [![npm version](https://badge.fury.io/js/think_logger.svg)](https://badge.fury.io/js/think_logger) Logger for ThinkKoa.
 * [think_model](https://github.com/thinkkoa/think_model) [![npm version](https://badge.fury.io/js/think_model.svg)](https://badge.fury.io/js/think_model) Model for ThinkKoa, use ThinkORM.
 * [think_payload](https://github.com/thinkkoa/think_payload) [![npm version](https://badge.fury.io/js/think_payload.svg)](https://badge.fury.io/js/think_payload) Payload parser for ThinkKoa.
