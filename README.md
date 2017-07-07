@@ -14,6 +14,11 @@ Cache for ThinkKoa, support file, memcache, redis.
 
 Error catch for ThinkKoa.
 
+#### [think_http](https://github.com/thinkkoa/think_http) 
+[![npm version](https://badge.fury.io/js/think_http.svg)](https://badge.fury.io/js/think_http) 
+
+Ctx extensions for ThinkKoa.
+
 #### [think_i18n](https://github.com/thinkkoa/think_i18n) 
 [![npm version](https://badge.fury.io/js/think_i18n.svg)](https://badge.fury.io/js/think_i18n) 
 
