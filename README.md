@@ -54,6 +54,11 @@ Session for ThinkKoa.
 
 Static resource service for ThinkKoa.
 
+*  [think_upload](https://github.com/thinkkoa/think_upload) 
+[![npm version](https://badge.fury.io/js/think_upload.svg)](https://badge.fury.io/js/think_upload) 
+
+Upload files for ThinkKoa.
+
 *  [think_view](https://github.com/thinkkoa/think_view) 
 [![npm version](https://badge.fury.io/js/think_view.svg)](https://badge.fury.io/js/think_view) 
 
