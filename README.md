@@ -20,6 +20,7 @@ Awesome projects for ThinkKoa.
  [think_trace](https://github.com/thinkkoa/think_trace)  |  Trace for ThinkKoa.ThinkKoa错误处理及日志处理中间件。支持 info、warn、error等多种类型日志打印以及日志记录。
 [think_upload](https://github.com/thinkkoa/think_upload)  | Upload files for ThinkKoa.ThinkKoa文件上传功能中间件。支持本地存储、FTP、阿里云OSS等方式。
 [think_view](https://github.com/thinkkoa/think_view)  | View engine for ThinkKoa.ThinkKoa视图中间件。支持ejs、jade等模板解析引擎。
+[think_error](https://github.com/thinkkoa/think_error)  | http 服务错误自定义中间件。可以自定义404、500等常见的错误页面
 
 ### library
 
@@ -28,6 +29,8 @@ Awesome projects for ThinkKoa.
 [think_lib](https://github.com/thinkkoa/think_lib)  | ThinkKoa functions library.ThinkKoa常用工具函数库。
 [think_store](https://github.com/thinkkoa/think_store)  | Cache's Storage for ThinkKoa.ThinkKoa存储驱动。包括file、memcache、redis等方式。
 [think_queue](https://github.com/thinkkoa/think_queue)  | 基于redis的异步队列。支持错误重试，支持事件监听等高级功能
+[think_logger](https://github.com/thinkkoa/think_logger)  | 控制台日志输出封装。支持info、warn、success、error等多种类型，支持颜色样式，支持日志存储
+
 
 ### tools
 
