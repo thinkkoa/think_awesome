@@ -51,6 +51,7 @@ Awesome projects for ThinkKoa.
 
 名称  | 描述
 ------------- | -------------
-thinkhub | 基于ThinkKoa的轻社区!
-thinkblog | 基于ThinkKoa的轻博客!
+[thinkkoa_site](https://github.com/thinkkoa/thinkkoa_site) | ThinkKoa官方网站源码
+[thinkhub](https://github.com/thinkkoa/thinkhub) | 基于ThinkKoa的轻社区!
+[thinkblog](https://github.com/thinkkoa/thinkblog) | 基于ThinkKoa的轻博客!
 
