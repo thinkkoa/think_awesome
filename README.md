@@ -46,3 +46,11 @@ Awesome projects for ThinkKoa.
 [thinkorm\_adapter\_mongodb](https://github.com/thinkkoa/thinkorm_adapter_mongodb)  | MongoDB adapter for thinkorm 2.x.ThinkORM MongoDB数据库驱动及适配模块。
 [thinkorm\_adapter\_mssql](https://github.com/thinkkoa/thinkorm_adapter_mssql)  | MSSQL adapter for thinkorm 2.x.ThinkORM MSSQL数据库驱动及适配模块。
 [thinkorm\_adapter\_oracle](https://github.com/thinkkoa/thinkorm_adapter_oracle)  | Oracle adapter for thinkorm 2.x.ThinkORM Oracle数据库驱动及适配模块。
+
+### Example
+
+名称  | 描述
+------------- | -------------
+thinkhub | 基于ThinkKoa的轻社区!
+thinkblog | 基于ThinkKoa的轻博客!
+
