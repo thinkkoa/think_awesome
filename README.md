@@ -28,6 +28,7 @@ Awesome projects for ThinkKoa.
 [think_lib](https://github.com/thinkkoa/think_lib)  | ThinkKoa functions library.ThinkKoa常用工具函数库。
 [think_store](https://github.com/thinkkoa/think_store)  | Cache's Storage for ThinkKoa.ThinkKoa存储驱动。包括file、memcache、redis等方式。
 [think_queue](https://github.com/thinkkoa/think_queue)  | 基于redis的异步队列。支持错误重试，支持事件监听等高级功能
+[think_loader](https://github.com/thinkkoa/think_loader)  | 文件加载器
 [think_logger](https://github.com/thinkkoa/think_logger)  | 控制台日志输出封装。支持info、warn、success、error等多种类型，支持颜色样式，支持日志存储
 
 
