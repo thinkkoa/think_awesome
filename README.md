@@ -10,7 +10,6 @@ Awesome projects for ThinkKoa.
 [think_cache](https://github.com/thinkkoa/think_cache)  |  Cache for ThinkKoa, support file, memcache, redis.ThinkKoa缓存中间件，支持 file、memcache、redis类型缓存。
  [think_cookie](https://github.com/thinkkoa/think_cookie)  |  Cookie for ThinkKoa.ThinkKoa Cookie处理中间件。
  [think_csrf](https://github.com/thinkkoa/think_csrf)  |  CSRF for ThinkKoa.ThinkKoa CSRF跨站攻击安全处理中间件。
-[think_context](https://github.com/thinkkoa/think_context)  | Ctx extensions for ThinkKoa.ThinkKoa 针对 koa ctx对象的扩展。扩展了一些常用的功能。
 [think_i18n](https://github.com/thinkkoa/think_i18n)  | Internationalization and localization for ThinkKoa.ThinkKoa国际化中间件，配合多语言文件配置，可以非常方便的实现多语言。还支持路由中指定语言。
 [think_model](https://github.com/thinkkoa/think_model)  | Model for ThinkKoa, use ThinkORM.ThinkKoa数据库ORM操作中间件。依赖于ThinkORM，支持多种数据库。
 [think_payload](https://github.com/thinkkoa/think_payload)  | Payload parser for ThinkKoa.ThinkKoa querystring以及body解析中间件。能够解析querystring、form、file、json等多种常用数据。
