@@ -19,7 +19,6 @@ Awesome projects for ThinkKoa.
  [think_trace](https://github.com/thinkkoa/think_trace)  |  Trace for ThinkKoa.ThinkKoa错误处理及日志处理中间件。支持 info、warn、error等多种类型日志打印以及日志记录。
 [think_upload](https://github.com/thinkkoa/think_upload)  | Upload files for ThinkKoa.ThinkKoa文件上传功能中间件。支持本地存储、FTP、阿里云OSS等方式。
 [think_view](https://github.com/thinkkoa/think_view)  | View engine for ThinkKoa.ThinkKoa视图中间件。支持ejs、jade等模板解析引擎。
-[think_error](https://github.com/thinkkoa/think_error)  | http 服务错误自定义中间件。可以自定义404、500等常见的错误页面(未开发完成)
 
 ### library
 
