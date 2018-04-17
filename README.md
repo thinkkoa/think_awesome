@@ -42,7 +42,7 @@ Awesome projects for ThinkKoa.
 名称  | 描述
 ------------- | -------------
 [thinkorm](https://github.com/thinkkoa/thinkorm)  | A flexible, lightweight and powerful Object-Relational Mapper for Node.js. ThinkORM是一个可扩展轻量级的功能丰富的对象-关系映射的数据模型封装框架，使用Node.js实现。如同SQL语言发明一样，ThinkORM试图用一种抽象的统一操作语言，使用户专注于数据操作逻辑而非具体的数据存储类型，达到快速开发和移植的目的。
-[liteQ](https://github.com/thinkkoa/liteQ)  | QueryBuilder for JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, and more. Works in NodeJS.轻量级的SQL生成器，支持多种数据库。
+[liteQ](https://github.com/thinkkoa/liteQ)  | QueryBuilder for JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, and more. Works in NodeJS.轻量级、开箱即用的SQL查询构造器，支持MySQL, PostgreSQL, MariaDB, Sqlite3和Oracle。
 
 ### Example
 
