@@ -17,7 +17,7 @@ Awesome projects for ThinkKoa.
 [think_upload](https://github.com/thinkkoa/think_upload)  |✔️ | ✔️ |  Upload files for ThinkKoa.ThinkKoa文件上传功能中间件。支持本地存储、FTP、阿里云OSS等方式。
 [think_view](https://github.com/thinkkoa/think_view)  |✔️ | ✔️ |  View engine for ThinkKoa.ThinkKoa视图中间件。支持ejs、jade等模板解析引擎。
 [think_jwt](https://github.com/thinkkoa/think_jwt)  |✔️ | ✔️ |  JWT token for ThinkKoa. JWT token中间件，生成或检查JWT token，代替session机制，方便做单点登录。
-[think_validtion](https://github.com/thinkkoa/think_validtion)  |✔️ | ✔️ |  Validtion Util for Koatty and ThinkORM. Based on class-validator, extended parameter type checking and restricted attribute functions.
+
 
 ### library
 
@@ -28,6 +28,7 @@ Awesome projects for ThinkKoa.
 [think_queue](https://github.com/thinkkoa/think_queue)  | 基于redis的异步队列。支持错误重试，支持事件监听等高级功能
 [think_loader](https://github.com/thinkkoa/think_loader)  | 目录多文件加载器
 [think_logger](https://github.com/thinkkoa/think_logger)  | 控制台日志输出封装。支持info、warn、success、error等多种类型，支持颜色样式，支持日志存储
+[think_validtion](https://github.com/thinkkoa/think_validtion)  | Validtion Util for Koatty and ThinkORM. Based on class-validator, extended parameter type checking and restricted attribute functions.
 
 
 ### tools
