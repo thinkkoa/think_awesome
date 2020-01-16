@@ -3,7 +3,7 @@
 Awesome projects for ThinkKoa.
 
 
-### middlewares
+### Middlewares
 
 名称  | thinkkoa | koatty | 描述
 ------------- | ------------- | ------------- | -------------
@@ -19,31 +19,31 @@ Awesome projects for ThinkKoa.
 [think_jwt](https://github.com/thinkkoa/think_jwt)  |✔️ | ✔️ |  JWT token for ThinkKoa. JWT token中间件，生成或检查JWT token，代替session机制，方便做单点登录。
 
 
-### library
+### Librarys
 
 名称  | 描述
 ------------- | -------------
 [think_lib](https://github.com/thinkkoa/think_lib)  | ThinkKoa functions library.ThinkKoa常用工具函数库。
-[think_store](https://github.com/thinkkoa/think_store)  | Cache's Storage for ThinkKoa.ThinkKoa存储驱动。包括file、memcache、redis等方式。
 [think_queue](https://github.com/thinkkoa/think_queue)  | 基于redis的异步队列。支持错误重试，支持事件监听等高级功能
 [think_loader](https://github.com/thinkkoa/think_loader)  | 目录多文件加载器
 [think_logger](https://github.com/thinkkoa/think_logger)  | 控制台日志输出封装。支持info、warn、success、error等多种类型，支持颜色样式，支持日志存储
 [think_validtion](https://github.com/thinkkoa/think_validtion)  | Validtion Util for Koatty and ThinkORM. Based on class-validator, extended parameter type checking and restricted attribute functions.
 
 
-### tools
+### Tools
 
 名称  | 描述
 ------------- | -------------
 [koatty_cli](https://github.com/thinkkoa/koatty_cli)  | Koatty command line tool.Koatty命令行工具，可以非常快速的搭建项目。
 [thinkkoa_cli](https://github.com/thinkkoa/thinkkoa_cli)  | ThinkKoa command line tool.ThinkKoa命令行工具，可以非常快速的搭建项目。
 
-### ORM
+### Database and cache
 
 名称  | 描述
 ------------- | -------------
 [thinkorm](https://github.com/thinkkoa/thinkorm)  | A flexible, lightweight and powerful Object-Relational Mapper for Node.js. ThinkORM是一个可扩展轻量级的功能丰富的对象-关系映射的数据模型封装框架，使用Node.js实现。如同SQL语言发明一样，ThinkORM试图用一种抽象的统一操作语言，使用户专注于数据操作逻辑而非具体的数据存储类型，达到快速开发和移植的目的。
 [liteQ](https://github.com/thinkkoa/liteQ)  | QueryBuilder for JavaScript. Supports MySQL, PostgreSQL, MariaDB, SQLite, MS SQL Server, Oracle, and more. Works in NodeJS.轻量级、开箱即用的SQL查询构造器，支持MySQL, PostgreSQL, MariaDB, Sqlite3和Oracle。
+[think_store](https://github.com/thinkkoa/think_store)  | Cache's Storage for ThinkKoa.ThinkKoa存储驱动。包括file、memcache、redis等方式。
 
 ### Example
 
