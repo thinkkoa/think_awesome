@@ -6,7 +6,7 @@ Awesome projects for ThinkKoa.
 ### middlewares
 
 名称  | thinkkoa | koatty | 描述
-------------- | -------------
+------------- | ------------- | ------------- | -------------
 [think_csrf](https://github.com/thinkkoa/think_csrf)  |✔️ | ✔️ |  CSRF for ThinkKoa.ThinkKoa CSRF跨站攻击安全处理中间件。
 [think_i18n](https://github.com/thinkkoa/think_i18n)  |✔️ | ✔️ | Internationalization and localization for ThinkKoa.ThinkKoa国际化中间件，配合多语言文件配置，可以非常方便的实现多语言。还支持路由中指定语言。
 [think_payload](https://github.com/thinkkoa/think_payload)  |✔️（embedding） | ✔️（embedding） | Payload parser for ThinkKoa.ThinkKoa querystring以及body解析中间件。能够解析querystring、form、file、json等多种常用数据。
