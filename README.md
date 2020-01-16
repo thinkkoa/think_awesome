@@ -5,20 +5,19 @@ Awesome projects for ThinkKoa.
 
 ### middlewares
 
-名称  | 描述
+名称  | thinkkoa | koatty | 描述
 ------------- | -------------
-[think_cache](https://github.com/thinkkoa/think_cache)  |  Cache for ThinkKoa, support file, memcache, redis.ThinkKoa缓存中间件，支持 file、memcache、redis类型缓存。
- [think_cookie](https://github.com/thinkkoa/think_cookie)  |  Cookie for ThinkKoa.ThinkKoa Cookie处理中间件。
- [think_csrf](https://github.com/thinkkoa/think_csrf)  |  CSRF for ThinkKoa.ThinkKoa CSRF跨站攻击安全处理中间件。
-[think_i18n](https://github.com/thinkkoa/think_i18n)  | Internationalization and localization for ThinkKoa.ThinkKoa国际化中间件，配合多语言文件配置，可以非常方便的实现多语言。还支持路由中指定语言。
-[think_payload](https://github.com/thinkkoa/think_payload)  | Payload parser for ThinkKoa.ThinkKoa querystring以及body解析中间件。能够解析querystring、form、file、json等多种常用数据。
-[think_router](https://github.com/thinkkoa/think_router)  | Router for ThinkKoa.ThinkKoa路由中间件。除默认解析规则以外，还支持灵活的路由自定义规则。
-[think_session](https://github.com/thinkkoa/think_session)  | Session for ThinkKoa.ThinkKoa Session中间件。支持file、memcache、redis等类型的session存储。
-[think_static](https://github.com/thinkkoa/think_static)  | Static resource service for ThinkKoa.ThinkKoa静态文件服务中间件。生产环境建议使用nginx进行处理。
- [think_trace](https://github.com/thinkkoa/think_trace)  |  Trace for ThinkKoa.ThinkKoa错误处理及拦截中间件。
-[think_upload](https://github.com/thinkkoa/think_upload)  | Upload files for ThinkKoa.ThinkKoa文件上传功能中间件。支持本地存储、FTP、阿里云OSS等方式。
-[think_view](https://github.com/thinkkoa/think_view)  | View engine for ThinkKoa.ThinkKoa视图中间件。支持ejs、jade等模板解析引擎。
-[think_jwt](https://github.com/thinkkoa/think_jwt) | JWT token for ThinkKoa. JWT token中间件，生成或检查JWT token，代替session机制，方便做单点登录。
+[think_csrf](https://github.com/thinkkoa/think_csrf)  |✔️ | ✔️ |  CSRF for ThinkKoa.ThinkKoa CSRF跨站攻击安全处理中间件。
+[think_i18n](https://github.com/thinkkoa/think_i18n)  |✔️ | ✔️ | Internationalization and localization for ThinkKoa.ThinkKoa国际化中间件，配合多语言文件配置，可以非常方便的实现多语言。还支持路由中指定语言。
+[think_payload](https://github.com/thinkkoa/think_payload)  |✔️（embedding） | ✔️（embedding） | Payload parser for ThinkKoa.ThinkKoa querystring以及body解析中间件。能够解析querystring、form、file、json等多种常用数据。
+[think_router](https://github.com/thinkkoa/think_router)  |✔️（embedding）| ❌ | Router for ThinkKoa.ThinkKoa路由中间件。除默认解析规则以外，还支持灵活的路由自定义规则。
+[think_session](https://github.com/thinkkoa/think_session) |✔️ | ✔️ | Session for ThinkKoa.ThinkKoa Session中间件。支持file、memcache、redis等类型的session存储。
+[think_static](https://github.com/thinkkoa/think_static)  |✔️（embedding） | ✔️（embedding） |  Static resource service for ThinkKoa.ThinkKoa静态文件服务中间件。生产环境建议使用nginx进行处理。
+ [think_trace](https://github.com/thinkkoa/think_trace)   |✔️（embedding） | ✔️（embedding） |   Trace for ThinkKoa.ThinkKoa错误处理及拦截中间件。
+[think_upload](https://github.com/thinkkoa/think_upload)  |✔️ | ✔️ |  Upload files for ThinkKoa.ThinkKoa文件上传功能中间件。支持本地存储、FTP、阿里云OSS等方式。
+[think_view](https://github.com/thinkkoa/think_view)  |✔️ | ✔️ |  View engine for ThinkKoa.ThinkKoa视图中间件。支持ejs、jade等模板解析引擎。
+[think_jwt](https://github.com/thinkkoa/think_jwt)  |✔️ | ✔️ |  JWT token for ThinkKoa. JWT token中间件，生成或检查JWT token，代替session机制，方便做单点登录。
+[think_validtion](https://github.com/thinkkoa/think_validtion)  |✔️ | ✔️ |  Validtion Util for Koatty and ThinkORM. Based on class-validator, extended parameter type checking and restricted attribute functions.
 
 ### library
 
@@ -35,6 +34,7 @@ Awesome projects for ThinkKoa.
 
 名称  | 描述
 ------------- | -------------
+[koatty_cli](https://github.com/thinkkoa/koatty_cli)  | Koatty command line tool.Koatty命令行工具，可以非常快速的搭建项目。
 [thinkkoa_cli](https://github.com/thinkkoa/thinkkoa_cli)  | ThinkKoa command line tool.ThinkKoa命令行工具，可以非常快速的搭建项目。
 
 ### ORM
@@ -48,5 +48,6 @@ Awesome projects for ThinkKoa.
 
 名称  | 描述
 ------------- | -------------
+[koatty_demo](https://github.com/thinkkoa/koatty_demo) | Koatty示例
 [thinkkoa_site](https://github.com/thinkkoa/thinkkoa_site) | ThinkKoa官方网站源码
 
