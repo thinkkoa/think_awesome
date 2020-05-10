@@ -30,6 +30,7 @@ Awesome projects for ThinkKoa.
 [think_loader](https://github.com/thinkkoa/think_loader)  | 目录多文件加载器
 [think_logger](https://github.com/thinkkoa/think_logger)  | 控制台日志输出封装。支持info、warn、success、error等多种类型，支持颜色样式，支持日志存储
 [think_validtion](https://github.com/thinkkoa/think_validtion)  | Validtion Util for Koatty and ThinkORM. Based on class-validator, extended parameter type checking and restricted attribute functions.
+[think_container](https://github.com/thinkkoa/think_container) | IOC容器，支持依赖管理和自动注入
 
 
 ### Tools
