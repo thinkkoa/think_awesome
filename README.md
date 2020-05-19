@@ -17,7 +17,7 @@ Awesome projects for ThinkKoa.
 [think_upload](https://github.com/thinkkoa/think_upload)  |✔️ | ✔️ |  Upload files for ThinkKoa.ThinkKoa文件上传功能中间件。支持本地存储、FTP、阿里云OSS等方式。
 [think_view](https://github.com/thinkkoa/think_view)  |✔️ | ✔️ |  View engine for ThinkKoa.ThinkKoa视图中间件。支持ejs、jade等模板解析引擎。
 [think_jwt](https://github.com/thinkkoa/think_jwt)  |✔️ | ✔️ |  JWT token for ThinkKoa. JWT token中间件，生成或检查JWT token，代替session机制，方便做单点登录。
-[think_apollo](https://github.com/thinkkoa/think_apollo)  |✔️ | ✔️ |  Apollo Middleware for ThinkKoa.. Apollo配置中心中间件。
+[think_apollo](https://github.com/thinkkoa/think_apollo)  |✖ | ✔️ |  Apollo Middleware for ThinkKoa.. Apollo配置中心中间件。
 
 
 
