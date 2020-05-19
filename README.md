@@ -35,6 +35,7 @@ Awesome projects for ThinkKoa.
 [think_webservice](https://github.com/thinkkoa/think_webservice) | WebService调用封装
 [think_crypto](https://github.com/thinkkoa/think_crypto) | AES、DES、3DES、RSA 加密库
 [think_robin](https://github.com/thinkkoa/think_robin) | 带权重的轮询策略算法
+[think_request](https://github.com/thinkkoa/think_request) |  Simplified HTTP request client.
 
 
 ### Tools
