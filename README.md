@@ -31,6 +31,10 @@ Awesome projects for ThinkKoa.
 [think_logger](https://github.com/thinkkoa/think_logger)  | 控制台日志输出封装。支持info、warn、success、error等多种类型，支持颜色样式，支持日志存储
 [think_validtion](https://github.com/thinkkoa/think_validtion)  | Validtion Util for Koatty and ThinkORM. Based on class-validator, extended parameter type checking and restricted attribute functions.
 [think_container](https://github.com/thinkkoa/think_container) | IOC容器，支持依赖管理和自动注入
+[think_thrift](https://github.com/thinkkoa/think_thrift) | thrift RPC调用封装
+[think_webservice](https://github.com/thinkkoa/think_webservice) | WebService调用封装
+[think_crypto](https://github.com/thinkkoa/think_crypto) | AES、DES、3DES、RSA 加密库
+[think_robin](https://github.com/thinkkoa/think_robin) | 带权重的轮询策略算法
 
 
 ### Tools
