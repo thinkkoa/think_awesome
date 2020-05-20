@@ -5,7 +5,7 @@ Awesome projects for ThinkKoa.
 
 ### Middlewares
 
-名称  | thinkkoa | koatty | 描述
+名称  | used in thinkkoa | used in koatty | 描述
 ------------- | ------------- | ------------- | -------------
 [think_csrf](https://github.com/thinkkoa/think_csrf)  |✔️ | ✔️ |  CSRF for ThinkKoa.ThinkKoa CSRF跨站攻击安全处理中间件。
 [think_i18n](https://github.com/thinkkoa/think_i18n)  |✔️ | ✔️ | Internationalization and localization for ThinkKoa.ThinkKoa国际化中间件，配合多语言文件配置，可以非常方便的实现多语言。还支持路由中指定语言。
@@ -17,7 +17,7 @@ Awesome projects for ThinkKoa.
 [think_upload](https://github.com/thinkkoa/think_upload)  |✔️ | ✔️ |  Upload files for ThinkKoa.ThinkKoa文件上传功能中间件。支持本地存储、FTP、阿里云OSS等方式。
 [think_view](https://github.com/thinkkoa/think_view)  |✔️ | ✔️ |  View engine for ThinkKoa.ThinkKoa视图中间件。支持ejs、jade等模板解析引擎。
 [think_jwt](https://github.com/thinkkoa/think_jwt)  |✔️ | ✔️ |  JWT token for ThinkKoa. JWT token中间件，生成或检查JWT token，代替session机制，方便做单点登录。
-[think_apollo](https://github.com/thinkkoa/think_apollo)  |✖ | ✔️ |  Apollo Middleware for ThinkKoa.. Apollo配置中心中间件。
+[think_apollo](https://github.com/thinkkoa/think_apollo)  |✖ | ✔️ |  Apollo Middleware . Apollo配置中心中间件。
 
 
 
