@@ -7,6 +7,15 @@ Awesome projects for ThinkKoa.
 名称  | used in koatty | 描述
 ------------- | ------------- | ------------- 
 [think_apollo](https://github.com/thinkkoa/think_apollo)  | ✔️ |  Apollo Plugin . Apollo配置中心插件。
+[koatty_etcd](https://github.com/thinkkoa/koatty_etcd)  | ✔️ |  Etcd Plugin . Etcd配置中心插件。
+
+### microservice
+
+名称  | used in koatty | 备注 | 描述
+------------- | ------------- | ------------- | ------------- 
+[koatty-cloud-consul](https://github.com/thinkkoa/koatty-cloud-consul) | ✔️ | 开发中 |  基于Consul的微服务管理套件，包括服务注册、发现。
+[koatty-cloud-nacos](https://github.com/thinkkoa/koatty-cloud-nacos) | ✔️ | 开发中 |  基于Nacos的微服务管理套件，包括服务注册、发现，配置中心等。
+[koatty-SpringCloud](https://github.com/thinkkoa/koatty-SpringCloud) | ✔️ | 开发中 |  基于SpringCloud的微服务管理套件，包括服务注册、发现。
 
 
 ### Middlewares
