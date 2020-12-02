@@ -25,7 +25,7 @@ Awesome projects for Koatty.
 ### Middlewares
 
 名称  | koatty支持 | 描述
-------------- | ------------- | ------------- | -------------
+------------- | ------------- | ------------- 
 [think_csrf](https://github.com/thinkkoa/think_csrf)  |✔️ |  CSRF for ThinkKoa.ThinkKoa CSRF跨站攻击安全处理中间件。
 [think_i18n](https://github.com/thinkkoa/think_i18n)  |✔️ | Internationalization and localization for ThinkKoa.ThinkKoa国际化中间件，配合多语言文件配置，可以非常方便的实现多语言。还支持路由中指定语言。
 [think_session](https://github.com/thinkkoa/think_session) | ✔️ | Session for ThinkKoa.ThinkKoa Session中间件。支持file、memcache、redis等类型的session存储。
